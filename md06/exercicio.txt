@@ -1,0 +1,40 @@
+# Algoritmo hora de acordar #
+
+1 - Os gatos começam a alertar sobre o horário.
+2 - Ignoro e aguardo o despertador tocar.
+3 - O despertador toca.
+4 - Levanto da cama.
+5 - Calço o chinelo.
+6 - Vou até a área.
+7 - Abro a porta da área.
+8 - Abro o pote de ração dos gatos.
+9 - Coleto a ração.
+10 - Fecho o pote.
+11 - Distribuo a ração entre os potes menores.
+12 - Volto até a área.
+13 - Abro o pote de ração dos cães.
+14 - Coleto a ração.
+15 - Fecho o pote.
+16 - Distribuo a ração entre os potes menores. 
+17 - Fecho a porta da área.
+18 - Vou até o banheiro.
+19 - Faço minhas necessidades. 
+20 - Escovo os dentes. 
+21 - Troco de roupa. 
+22 - Pego a coleira dos cães.
+23 - Coloco a coleira.
+24 - Pego alguns jornais.
+25 - Abro a porta de entrada.
+26 - Saio com os cães.
+27 - O cão fez o número 2?  
+    27.1 - Sim -> Juntar o dejeto com o jornal. Prosseguir para o passo 28.
+    27.2 - Não -> Prosseguir para o passo 28.
+28 - Voltar com os cães.
+29 - Abrir a porta da entrada.
+30 - Tem dejetos? 
+    30.1 - Sim -> colocar na lixeira. Prosseguir para o passo 31.
+    30.2 - Não -> Prosseguir para o passo 31.
+31 - Tirar a coleira dos cães.
+32 - Limpar a caixa dos gatos. 
+33 - Lavar as mãos.
+34 - Preparar o café da manha.
